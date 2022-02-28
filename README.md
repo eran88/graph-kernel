@@ -1,5 +1,5 @@
 # Combining graph neural networks and classical kernels for graph generation
-Pytorch implement of the article Combining graph neural networks and classical kernels for graph generation.
+Pytorch implement of the article [Combining graph neural networks and classical kernels for graph generation](https://github.com/eran88/graph-kernel/blob/main/Combining%20graph%20neural%20networks%20and%20classical%20kernels%20for%20graph%20generation.pdf).
 
 This library refers to the source code https://github.com/yongqyu/MolGAN-pytorch
 
