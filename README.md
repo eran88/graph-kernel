@@ -25,6 +25,7 @@ Models at /results/runname/models
 ## Hyper parameters
 For information about the hyper parameters run:
 >python main.py --help
+
 You can also view [this instructions](https://github.com/eran88/graph-kernel/blob/main/parameters.pdf)
 To recreate the experiments described in this article view [this instructions](https://github.com/eran88/graph-kernel/blob/main/Recommended_setups.pdf)
 
