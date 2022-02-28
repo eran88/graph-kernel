@@ -18,10 +18,8 @@ Before running:
 ## Run the code
 >python main.py --name runname
 
-Will result with the run's logs at /results/runname/logs.txt
-
-Samples at /results/runname/fake_samples
-
+Will result with the run's logs at /results/runname/logs.txt <br />
+Samples at /results/runname/fake_samples <br />
 Models at /results/runname/models
 
 
