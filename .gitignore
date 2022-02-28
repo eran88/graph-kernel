@@ -1,0 +1,12 @@
+*.bak
+/wandb/
+/results/
+__pycache__/
+nppBackup/
+/results2/
+/data/gdb9.sdf.csv
+/data/gdb9_9nodes.sparsedataset
+/data/gdb9.sdf
+Recomended_setups.docx
+parameters.docx
+.idea/
