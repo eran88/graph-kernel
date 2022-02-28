@@ -85,7 +85,6 @@ class Solver(object):
         # Directories.
         main_dir="results/"+config.name
         self.main_dir=main_dir
-        self.log_dir = main_dir+"/logs"
         self.model_save_dir =  main_dir+"/models"
         self.samples =  main_dir+"/fake_samples"
         self.real_samples =  main_dir+"/real_samples"
@@ -98,7 +97,6 @@ class Solver(object):
         Path(main_dir).mkdir(exist_ok=True)
         Path(self.samples).mkdir(exist_ok=True)
         Path(self.real_samples).mkdir(exist_ok=True)
-        Path(self.log_dir).mkdir(exist_ok=True)
         Path(self.model_save_dir).mkdir(exist_ok=True)
 
         # Step size.

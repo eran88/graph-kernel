@@ -3,7 +3,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 import numpy as np
 from layers import GraphConvolution, GraphAggregation
-
+import torch
 
 class ResidualBlock(nn.Module):
     """Residual Block with instance normalization."""
