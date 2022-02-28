@@ -9,13 +9,13 @@ This library refers to the source code https://github.com/yongqyu/MolGAN-pytorch
 3) rdkit  https://www.rdkit.org/
 4) numpy
 
-##Setup
+## Setup
 Before running:
 1) Enter the data folder and run download_dataset.sh or extract the files at gdb9.tar.gz in the data folder
 2) From the data folder run:
 >python sparse_molecular_dataset.py 
 
-##Run the code
+## Run the code
 >python main.py --name runname
 Will result with the run's logs at /results/runname/logs.txt
 Samples at /results/runname/fake_samples
