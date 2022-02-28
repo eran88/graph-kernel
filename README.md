@@ -17,6 +17,7 @@ Before running:
 
 ## Run the code
 >python main.py --name runname
+
 Will result with the run's logs at /results/runname/logs.txt
 Samples at /results/runname/fake_samples
 Models at /results/runname/models
