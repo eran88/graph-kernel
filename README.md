@@ -8,6 +8,7 @@ This library refers to the source code https://github.com/yongqyu/MolGAN-pytorch
 2) pytroch>=1.10.0  https://pytorch.org
 3) rdkit  https://www.rdkit.org/
 4) numpy
+5) sklearn
 
 ## Setup
 Before running:
